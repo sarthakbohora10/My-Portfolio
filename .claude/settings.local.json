@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install *)",
+      "PowerShell(Rename-Item -Path \"c:\\\\Users\\\\Acer\\\\OneDrive\\\\Desktop\\\\PORTFOLIO\\\\SARTHAK PORTFOLIO\\\\public\\\\Sarthak_Bohora_CV_Final \\(1\\).pdf\" -NewName \"resume.pdf\")",
+      "Bash(dir public *)",
+      "PowerShell(Rename-Item -Path \"c:\\\\Users\\\\Acer\\\\OneDrive\\\\Desktop\\\\PORTFOLIO\\\\SARTHAK PORTFOLIO\\\\public\\\\me cyborg.jpeg\" -NewName \"me-cyborg.jpeg\")",
+      "Bash(npm run *)",
+      "Bash(dir \"c:\\\\Users\\\\Acer\\\\OneDrive\\\\Desktop\\\\PORTFOLIO\\\\SARTHAK PORTFOLIO\\\\public\")",
+      "Bash(dir \"c:\\\\Users\\\\Acer\\\\OneDrive\\\\Desktop\\\\PORTFOLIO\\\\SARTHAK PORTFOLIO\" /b)",
+      "PowerShell(Rename-Item -Path \"c:\\\\Users\\\\Acer\\\\OneDrive\\\\Desktop\\\\PORTFOLIO\\\\SARTHAK PORTFOLIO\\\\public\\\\Sarthak_Bohora_CV.pdf\" -NewName \"resume.pdf\")"
+    ]
+  }
+}
